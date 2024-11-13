@@ -1,4 +1,4 @@
-# Csv_Analysis
+# BreakoutAI _ Assignment
 This repository contains a Python-based tool for analyzing and visualizing datasets from CSV files. The application performs several key tasks:
 
 Data Loading: Reads datasets from CSV files.
