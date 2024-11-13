@@ -1,5 +1,4 @@
-# BreakoutAI_Assignment
-
+# Csv_Analysis
 This repository contains a Python-based tool for analyzing and visualizing datasets from CSV files. The application performs several key tasks:
 
 Data Loading: Reads datasets from CSV files.
@@ -10,6 +9,8 @@ Histogram Visualization: Automatically generates histograms for all numerical co
 
 Interactive Q&A: Allows users to ask questions about the dataset, with support for both local statistical calculations and advanced insights from OpenAI's language models.
 
-NOTE : Create new API key and store in the .env file
+NOTE : Create new API key and store in the .env file 
+       
+       Run the app file as python main.py
 
-   Run the app file as python main.py
+       
